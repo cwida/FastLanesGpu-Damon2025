@@ -1,6 +1,7 @@
-*.i
-*.ii
-*.gpu
-*.ptx
-*.cubin
-*.fatbin
+bin/
+compile_commands.json
+obj/
+.cache/
+data/
+.venv/
+benchmark-results/
